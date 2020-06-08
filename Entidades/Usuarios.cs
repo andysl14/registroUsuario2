@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace registroUsuario2.DAL
+namespace registroUsuario2.Entidades
 {
     public class Usuarios
     {
